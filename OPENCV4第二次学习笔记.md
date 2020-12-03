@@ -14,7 +14,7 @@
 
 Mat类的结构如下：
 
-
+<img src="/home/xushuo/图片/BA18F747E4D77E257DC74FBBD4F35D69.png" alt="BA18F747E4D77E257DC74FBBD4F35D69" style="zoom:50%;" />
 
 
 
@@ -22,11 +22,11 @@ Mat类的结构如下：
 
 Mat类存储的数据有好几种类型，但是因为不同平台对于int，float规定可能有变，所以做出如下对于数据类型的统一规定：
 
+![02D2D39B4D28252B8E22D9F780F72A53](/home/xushuo/图片/02D2D39B4D28252B8E22D9F780F72A53.png)
 
 
 
-
-
+<img src="/home/xushuo/图片/52EB6A91BE19269ECA4500BF8F28E0AA.png" alt="52EB6A91BE19269ECA4500BF8F28E0AA" style="zoom: 33%;" />
 
 ### 1.2 Mat类的创建与赋值
 
@@ -82,13 +82,13 @@ Mat类存储的数据有好几种类型，但是因为不同平台对于int，fl
 
 
 
-
+<img src="/home/xushuo/图片/0EF4EA181E244294F17F0BF20884326E.png" alt="0EF4EA181E244294F17F0BF20884326E" style="zoom:50%;" />
 
 
 
 * Mat类对象的常用属性（可以用对象直接调用）
 
-
+<img src="/home/xushuo/图片/D6505EA21DC268A71E13DE3E437D9683.png" alt="D6505EA21DC268A71E13DE3E437D9683" style="zoom:67%;" />
 
 
 
